@@ -5,7 +5,7 @@
 - 📫 You can find me via [my personal wensite](https://yubinwang11.github.io/).
 - 🔭 Currently working in the intersection of robotics, learning and control.
 - 🗞 Code is poetry.
-- 🔨 Python is captain. C++ is the second mate. 
+- 🔨 Python is captain. Julia is the second mate. 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
