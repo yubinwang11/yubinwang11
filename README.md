@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🌱 Currently a Mphil student in Robotics at HKUST(GZ) and co-advised in ECE at KAUST.
+- 🌱 Currently a MPhil student in Robotics at HKUST(GZ) and co-advised in ECE at KAUST.
 - 📫 You can find me via [my personal wensite](https://yubinwang11.github.io/).
 - 🔭 Currently working in the intersection of robotics, learning and control.
 - 🔨 Python is captain. Julia is the second mate. 
