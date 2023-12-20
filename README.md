@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=yubinwang11)
 - 🎓 A MPhil student in Robotics at HKUST(GZ).
 <!--- 🐫 Currently a research intern at [CAMEL-AI.org](https://www.camel-ai.org/).-->
-- <img src="https://media1.giphy.com/media/N8wR1WZobKXaE/200w.webp?cid=ecf05e473jdc9llvefqjz2budmeyewlygrorcm3unx4hhe7f&ep=v1_gifs_related&rid=200w.webp&ct=g" width="20"> I am struggling with visual language models for communicative robots.
+- <img src="https://media1.giphy.com/media/N8wR1WZobKXaE/200w.webp?cid=ecf05e473jdc9llvefqjz2budmeyewlygrorcm3unx4hhe7f&ep=v1_gifs_related&rid=200w.webp&ct=g" width="20"> I am struggling with embodied AI.
 - :mailbox_with_mail: You can reach me by: <a href = "mailto:fishcakewang11@gmail.com"><img src="https://img.shields.io/badge/-fishcakewang11@gmail.com-blue?style=flat&logo=gmail&logoColor=white" target="_blank"></a> <!--<a href = "mailto:ywang575@connect.hkust-gz.edu.cn"><img src="https://img.shields.io/badge/-ywang575@connect.hkust-gz.edu.cn-%233?style=flat&logo=gmail&logoColor=white" target="_blank"></a> START_SECTION:waka<a href = "https://twitter.com/zwhe99"><img src="https://img.shields.io/badge/-Twitter @zwhe99-%234a99e9?style=flat&logo=twitter&logoColor=white" target="_blank"></a> <a href = "https://www.zhihu.com/people/hbenmazi-8"><img src="https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-%232f6be0" target="_blank"></a> -->
 <!--- :blue_book: You can find me more at [yubinwang11.github.io](https://yubinwang11.github.io/)-->
 <!--START_SECTION:waka-->
