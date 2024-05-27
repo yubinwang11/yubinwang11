@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=yubinwang11)
 - ⛵ Incoming researcher at Huawei Noah's Ark Lab.
 <!-- - 🎓 MPhil in robotics at HKUST. -->
-- <img src="https://media1.giphy.com/media/N8wR1WZobKXaE/200w.webp?cid=ecf05e473jdc9llvefqjz2budmeyewlygrorcm3unx4hhe7f&ep=v1_gifs_related&rid=200w.webp&ct=g" width="20"> Interested in AI agents.
+- <img src="https://media1.giphy.com/media/N8wR1WZobKXaE/200w.webp?cid=ecf05e473jdc9llvefqjz2budmeyewlygrorcm3unx4hhe7f&ep=v1_gifs_related&rid=200w.webp&ct=g" width="20"> Interested in AI agents with the focuses of reasoning and decision making.
 <!--
 <img src="https://img.shields.io/badge/-ywang575@connect.hkust-gz.edu.cn-%233?style=flat&logo=gmail&logoColor=white" target="_blank"></a> START_SECTION:waka<a href = "https://twitter.com/zwhe99"><img src="https://img.shields.io/badge/-Twitter @zwhe99-%234a99e9?style=flat&logo=twitter&logoColor=white" target="_blank"></a> <a href = "https://www.zhihu.com/people/hbenmazi-8"><img src="https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-%232f6be0" target="_blank"></a>
 -->
